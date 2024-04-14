@@ -57,7 +57,7 @@
 ## <a name="Z"> </a>Z
 
 <!-- - [Repo name](https://github.com/repo) - "Emoji" "Description" **By [@handle](https://github.com/handle)** -->
-## <a name="W"> </a>W
+## <a name="D"> </a>D
 - [DDOS TOOL](https://github.com/alien-keric/DDOS-TOOL) - 🖥️ A  ddos tool made with simple script written in python . **By [@alien-keric](https://github.com/alien-keric)**
 
 <br>
