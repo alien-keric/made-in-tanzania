@@ -38,6 +38,8 @@
 ## <a name="A"> </a>A
 - [Artemis](https://github.com/tahaafarooq/Artemis) - 🐍 A community package-based tool that simplifies carrying out scans, and pentests upon certain scope while performing security penetration testing and researches. **By [@tahaafarooq](https://github.com/tahaafarooq)**
 <!-- - [Repo name](https://github.com/repo) - "Emoji" "Description" **By [@handle](https://github.com/handle)** -->
+## <a name="D"> </a>D
+- [DDOS TOOL](https://github.com/alien-keric/DDOS-TOOL) - 🖥️ A  ddos tool made with simple script written in python . **By [@alien-keric](https://github.com/alien-keric)**
 
 ## <a name="G"> </a>G
 - [Gallery3D Tecno Exploit](https://github.com/tahaafarooq/gallery3d-tecno-exploit) - 💀 An automated exploit script to extract hidden images from Tecno Camon X. **By [@tahaafarooq](https://github.com/tahaafarooq)** 
@@ -57,8 +59,7 @@
 ## <a name="Z"> </a>Z
 
 <!-- - [Repo name](https://github.com/repo) - "Emoji" "Description" **By [@handle](https://github.com/handle)** -->
-## <a name="D"> </a>D
-- [DDOS TOOL](https://github.com/alien-keric/DDOS-TOOL) - 🖥️ A  ddos tool made with simple script written in python . **By [@alien-keric](https://github.com/alien-keric)**
+
 
 <br>
 <br>
