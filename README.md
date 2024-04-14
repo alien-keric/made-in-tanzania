@@ -57,11 +57,12 @@
 ## <a name="Z"> </a>Z
 
 <!-- - [Repo name](https://github.com/repo) - "Emoji" "Description" **By [@handle](https://github.com/handle)** -->
+## <a name="W"> </a>W
+- [DDOS TOOL](https://github.com/alien-keric/DDOS-TOOL) - 🖥️ A  ddos tool made with simple script written in python . **By [@alien-keric](https://github.com/alien-keric)**
 
 <br>
 <br>
 
 <img src="https://i.imgur.com/Sc92VRC.jpeg" class="banner">
 
-## <a name="W"> </a>W
-- [DDOS TOOL](https://github.com/alien-keric/DDOS-TOOL) - 🖥️ A simple python script  . **By [@alien-keric](https://github.com/alien-keric)**
+
