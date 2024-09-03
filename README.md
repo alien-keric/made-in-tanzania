@@ -40,7 +40,7 @@
 <!-- - [Repo name](https://github.com/repo) - "Emoji" "Description" **By [@handle](https://github.com/handle)** -->
 
 ## <a name="D"> </a>D
-- [DDOS TOOL ]([https://github.com/urchinsec/urchinshel]) - 🖥️ A simple ddos tool written in python3. **By [@alien-keric](https://github.com/alien-keric)**
+- [DDOS TOOL ](https://github.com/urchinsec/urchinshel) - 🖥️ A simple ddos tool written in python3. **By [@alien-keric](https://github.com/alien-keric)**
 
 ## <a name="G"> </a>G
 - [Gallery3D Tecno Exploit](https://github.com/tahaafarooq/gallery3d-tecno-exploit) - 💀 An automated exploit script to extract hidden images from Tecno Camon X. **By [@tahaafarooq](https://github.com/tahaafarooq)** 
