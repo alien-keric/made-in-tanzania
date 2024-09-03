@@ -55,6 +55,8 @@
 ## <a name="S"> </a>S
 - [Solar-Putty-4.0.0.47 Decryptor](https://github.com/tahaafarooq/Solar-Putty-4.0.0.47-decryptor) - 💀 A program that decrypts Solar-PuTTY session files holding credentials for the hosts. **By [@tahaafarooq](https://github.com/tahaafarooq)**
 
+-  [SeImpersonatePrivilege](https://github.com/alien-keric/SeImpersonatePrivilege) - 💀 how to exploit SeImpersonatePrivilege in windows machine during pentesting. **By [@alien-keric](https://github.com/alien-keric)**
+
 ## <a name="S"> </a>S
 - [Substat](https://github.com/KharimMchatta/substat) - This is a tool that is used to enumerate for subdomains. **By [@Kharim Mchatta](https://github.com/KharimMchatta)**
 <!-- - [Repo name](https://github.com/repo) - "Emoji" "Description" **By [@handle](https://github.com/handle)** -->
